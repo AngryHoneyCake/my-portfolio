@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<title>калькулятор</title>
+</head>
+<body>
+<script>
+	sum ();
+subtraction()
+multiplication()
+division()
+function sum() {
+	alert (`Это сложение чисел!`)
+	let number1=parseInt(prompt("Введите первое число:"));
+    let number2=parseInt(prompt("Введите второе число:"));
+    alert (`Ваш результат: ${number1+number2}`);
+}
+function subtraction() {
+	alert (`Это вычитание чисел!`)
+	let number1=parseInt(prompt("Введите первое число:"));
+    let number2=parseInt(prompt("Введите второе число:"));
+    alert (`Ваш результат: ${number1-number2}`);
+}
+function multiplication() {
+	alert (`Это умножение чисел!`)
+	let number1=parseInt(prompt("Введите первое число:"));
+    let number2=parseInt(prompt("Введите второе число:"));
+    alert (`Ваш результат: ${number1*number2}`);
+}
+function division() {
+	alert (`Это деление чисел!`)
+	let number1=parseInt(prompt("Введите первое число:"));
+    let number2=parseInt(prompt("Введите второе число:"));
+    alert (`Ваш результат: ${number1/number2}`);
+}
+</script>
+<a href="C:/Users/User/Desktop/Курс/портфолио.html">На Главную</a>
+</body>
+</html>
