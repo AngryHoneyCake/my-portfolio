@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<title>завтраки</title>
+</head>
+<body>
+	<div><h1>Рецепты завтраков</h1>
+		<p><a href="практика/практика1.4.2.html">Главная</a></p>
+	</div>
+</body>
+</html>
